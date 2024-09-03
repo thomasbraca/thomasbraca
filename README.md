@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate data scientist from Argentina</h3>
 
+Welcome to my GitHub! I'm Thomas, passionate about programming. I'm constantly studying and trying to learn more!
+Some of my other interests include video games and  reading!
+
+I love a great challenge! Something that can force me to truly wrap my head around a problem and find a creative solution.
+
 - 👨‍💻 All of my projects are available at [https://github.com/thomasbraca](https://github.com/thomasbraca)
 
 - 📫 How to reach me **thomas.bracamonte@gmail.com**
